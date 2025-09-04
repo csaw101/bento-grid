@@ -42,7 +42,6 @@ body {
 * grid *
 *******/
 .block {
-  /* border: solid 1px #000; */
   border-radius: 10px;
 }
 
@@ -75,11 +74,6 @@ body {
   font-size: 23px;
   font-weight: 600;
 }
-@media (min-width: 768px) {
-  .block-3 .text-1 {
-    /* line-height: 20px; */
-  }
-}
 
 .block-4 {
   background-color: var(--purple-100-color);
@@ -92,7 +86,6 @@ body {
 .block-4 .text-1 {
   font-size: 23px;
   font-weight: 600;
-  /* line-height: 40px; */
 }
 .block-4 .text-2 {
   margin: auto 1em;
@@ -100,9 +93,6 @@ body {
 @media (min-width: 768px) {
   .block-4 {
     text-align: left;
-  }
-  .block-4 .text-1 {
-    /* line-height: 20px; */
   }
   .block-4 .text-2 {
     font-size: 14px;
