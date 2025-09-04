@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/bento-grid-solution-using-css-grid-layout-cDADmLdCGw)
+- Live Site URL: [Here](https://bento-grid-six-indol.vercel.app/)
 
 ## My process
 
